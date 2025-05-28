@@ -75,14 +75,6 @@ Each figure is briefly described below, including its scientific purpose and dat
 - **Purpose**: Theoretically validate observed injection scales  
 - **Overlay**: Growth rates and most unstable wavelengths
 
----
-
-## 📊 Appendix Figure B1: Isotropy Verification
-- **Content**:  
-  - Velocity variance anisotropy and covariance metrics  
-  - Cross-spectral coherence between u and v  
-- **Purpose**: Supports the use of isotropic structure function assumptions  
-- **Data**: SADCP
 
 ---
 
